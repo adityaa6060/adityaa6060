@@ -1,143 +1,169 @@
-# Hey, I'm Aditya Tanwar
+<h1 align="center">Hey, I'm Aditya Tanwar 👋</h1>
 
-> Computer Science (Data Science) student building products that solve real problems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Building+AI-powered+Products;Creator+of+ARES;Full-Stack+Developer+in+Progress" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/adityaa6060">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aditya-tanwar-34980b376">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:adityatanwar13827@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-3B82F6?style=for-the-badge"/>
+  </a>
+</p>
+
+---
 
 ## About Me
 
-- B.Tech CSE (Data Science) @ NMIMS Chandigarh
-- Expected Graduation: 2029
-- Currently exploring:
-  - Full Stack Development
-  - AI Applications
-  - System Design
-  - Product Building
-- Interested in startups, SaaS, productivity tools, and human-computer interaction.
+```cpp
+class AdityaTanwar {
+
+public:
+
+    string role = "Computer Science Student";
+    string university = "NMIMS Chandigarh";
+    string graduation = "2029";
+
+    vector<string> interests = {
+        "Artificial Intelligence",
+        "Full Stack Development",
+        "System Design",
+        "Developer Tools",
+        "Product Engineering",
+        "Startups"
+    };
+
+    vector<string> learning = {
+        "DSA in C",
+        "JavaScript",
+        "Next.js",
+        "Python",
+        "AI Engineering"
+    };
+
+    string currentMission = "Building ARES";
+};
+```
 
 ---
 
-## Current Focus
+# 🚀 Current Mission
 
-- Building **Ares** — an AI-powered external memory / second-brain system inspired by Memex, Rewind AI, and modern knowledge management.
-- Learning modern web development.
-- Improving DSA and programming fundamentals.
-- Exploring how AI can augment human memory and workflows.
+### **ARES**
 
----
-
-## Tech Stack
-
-### Languages
-
-- C
-- Java
-- JavaScript
-- HTML
-- CSS
-- Python (Learning)
-
-### Frameworks & Tools
-
-- Next.js
-- Firebase
-- Git & GitHub
-- Figma
-- VS Code
-- CapCut
-- After Effects
-
-### Interested In
-
-- Artificial Intelligence
-- SaaS
-- Knowledge Systems
-- Developer Tools
-- Product Design
-- UI/UX
-
----
-
-## Projects
-
-### Ares
-A next-generation AI memory system designed to remember, organize, and retrieve everything you interact with.
+An AI-powered external memory system designed to help people capture, organize, and retrieve knowledge naturally.
 
 Inspired by:
-- Vannevar Bush's Memex
+- Memex
 - Rewind AI
-- Personal Knowledge Management systems
-
-Goals:
-- Context-aware search
-- Semantic memory
-- AI-powered retrieval
-- Local-first architecture
-- Natural language interaction
+- Personal Knowledge Management
+- Human-centered AI
 
 ---
 
-## Experience
+# 💻 Tech Stack
 
-### Frontend & Digital Media Intern
-
-Worked on:
-- Social media content
-- Video editing
-- Graphic design
-- Marketing assets
-- SaaS product branding
-
-Tools used:
-- After Effects
-- CapCut
-- Figma
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,java,python,js,html,css,nextjs,firebase,git,github,vscode,figma,ae"/>
+</p>
 
 ---
 
-## Currently Learning
+# 📚 Currently Learning
 
-- Data Structures & Algorithms
-- System Design
-- AI Engineering
-- Next.js ecosystem
-- Modern JavaScript
-- Building scalable software
-
----
-
-## Philosophy
-
-> Build things people actually need.
-
-I enjoy turning real-world problems into software instead of making projects just to fill a resume.
+- Data Structures & Algorithms (C)
+- Advanced JavaScript
+- Next.js
+- AI-powered Applications
+- Scalable Software Design
 
 ---
 
-## Beyond Code
+# 📊 GitHub Stats
 
-- Guitar (Left-handed)
-- Video Editing
-- UI Design
-- Startups
-- Productivity Systems
-- Gaming
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=adityaa6060&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## GitHub Stats
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaa6060&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<!-- Add your GitHub stats here -->
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+<img src="https://streak-stats.demolab.com?user=adityaa6060&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## Connect
+# 📈 Contribution Graph
 
-- LinkedIn: Coming Soon
-- Portfolio: Coming Soon
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaa6060&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-> "Build useful things. Learn relentlessly."
+# 🛠️ What I'm Building
+
+- 🧠 ARES — AI Second Brain
+- 🌐 Full Stack Projects
+- 🤖 AI Integrations
+- 📈 Developer Portfolio
+
+---
+
+# 🎯 Goals for 2026
+
+- Build impactful AI products
+- Master DSA
+- Contribute to Open Source
+- Ship more real-world projects
+- Grow as a Software Engineer
+
+---
+
+# ⚡ Beyond Coding
+
+- 🎬 Video Editing
+- 🎨 UI/UX Design
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adityaa6060&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=adityaa6060&label=Profile%20Views&color=3b82f6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+*"Build things people actually need."*
+
+</h3>
