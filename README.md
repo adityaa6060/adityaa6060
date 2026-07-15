@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Aditya Tanwar 👋</h1>
+<h1 align="center">Hey, I'm Aditya Tanwar </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Building+AI-powered+Products;Creator+of+ARES;Full-Stack+Developer+in+Progress" />
@@ -24,36 +24,28 @@
 
 ---
 
-## About Me
+## ~/about.txt
 
-```cpp
-class AdityaTanwar {
+```bash
+$ whoami
+Aditya Tanwar
 
-public:
+$ education
+B.Tech CSE (Data Science)
 
-    string role = "Computer Science Student";
-    string university = "NMIMS Chandigarh";
-    string graduation = "2029";
+$ building
+ARES
 
-    vector<string> interests = {
-        "Artificial Intelligence",
-        "Full Stack Development",
-        "System Design",
-        "Developer Tools",
-        "Product Engineering",
-        "Startups"
-    };
+$ learning
+DSA in C
+Next.js
+JavaScript
+Python
 
-    vector<string> learning = {
-        "DSA in C",
-        "JavaScript",
-        "Next.js",
-        "Python",
-        "AI Engineering"
-    };
-
-    string currentMission = "Building ARES";
-};
+$ interests
+AI
+Product Engineering
+Startups
 ```
 
 ---
