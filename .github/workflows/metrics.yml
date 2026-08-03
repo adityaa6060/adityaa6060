@@ -18,12 +18,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: adityaa6060
+          filename: github-metrics.svg
 
-          template: classic
-
-          base: header
+          # Only show the calendar
+          template: isocalendar
+          base: ""
+          config_display: large
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          filename: github-metrics.svg
