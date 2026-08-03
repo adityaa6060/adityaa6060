@@ -116,14 +116,10 @@ src="https://streak-stats.demolab.com?user=adityaa6060&theme=tokyonight&hide_bor
 
 ---
 
-# 📈 Contribution Graph
+<h2 align="center">📅 Commit Calendar</h2>
 
 <p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=adityaa6060&theme=tokyo-night&hide_border=true"
-/>
-
+    <img src="./github-metrics.svg" />
 </p>
 
 ---
