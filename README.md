@@ -119,9 +119,8 @@ src="https://streak-stats.demolab.com?user=adityaa6060&theme=tokyonight&hide_bor
 <h2 align="center">📅 Commit Calendar</h2>
 
 <p align="center">
-    <img src="./github-metrics.svg" />
+  <img src="https://ghchart.rshah.org/1D4ED8/adityaa6060" alt="Commit Calendar" width="100%" />
 </p>
-
 ---
 
 # 🛠️ What I'm Building
