@@ -135,7 +135,7 @@ A handful of smaller prototypes and quick builds from the process of learning by
 ## LeetCode
 
 <div align="center">
-<a href="https://leetcode.com/u/jbJhfkj3Rg/">
+<a href="https://leetcode.com/u/adityaa6/">
 <img src="https://leetcard.jacoblin.cool/jbJhfkj3Rg?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 </a>
 </div>
