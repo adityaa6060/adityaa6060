@@ -1,44 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1E3C72,100:2A5298&height=230&section=header&text=Aditya%20Tanwar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=builder%20%C2%B7%20tinkerer%20%C2%B7%20perpetually%20mid-project&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1E3C72,100:2A5298&height=230&section=header&text=Aditya%20Tanwar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%C2%B7%20Tinkerer%20%C2%B7%20Perpetually%20Mid-Project&descAlignY=58&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=B.Tech+CS+(Data+Science)+%40+NMIMS+Chandigarh;Turning+rough+ideas+into+shipped+code;Hackathon+builder+%E2%80%94+Hack2Skill+%26+college+circuits;Design-minded%2C+code-first;Currently+arguing+with+Next.js+and+winning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=B.Tech+CS+(Data+Science)+%40+NMIMS+Chandigarh;Turning+rough+ideas+into+shipped+code;Hackathon+builder+%E2%80%94+Hack2Skill+%26+college+circuits;Design-minded%2C+code-first;Currently+debugging+Next.js+and+winning" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://aditya-tanwar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2A5298?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/adityaa6060"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/jbJhfkj3Rg/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://leetcode.com/u/adityaa6/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 </div>
 
 <br/>
 
-## ADITYA TANWAR
+## Aditya Tanwar
 
-A second-year CS (Data Science) undergrad who'd rather build the thing than read another slide about it. I go from "what if we made..." to a deployed link faster than I'd like to admit, and most of what I know I learned by breaking something at 2 AM before a hackathon deadline.
+A second-year Computer Science (Data Science) undergraduate who prefers building something to reading another slide about it. I move from an early idea to a working, deployed version quickly, and most of what I know I've picked up by troubleshooting real problems under hackathon deadlines rather than in a classroom.
 
-Outside of code: I dabble in video editing, poke around in Figma, and once ran social media for a marketing internship — so I care about how things *look*, not just how they run.
+Outside of coding, I edit video, work in Figma, and previously managed social media during a marketing internship — so I pay attention to how a product looks and feels, not only how it functions.
 
 ```bash
 $ cat about-me.txt
-role        → CS (Data Science) undergrad, NMIMS Chandigarh
-mode        → shipping small, useful things
-weapons     → C · Java · Python · JavaScript/TypeScript
-also known  → the guy who says "just one more feature" at 11 PM
-status      → deep in Next.js + building a real portfolio for once
+role        → CS (Data Science) undergraduate, NMIMS Chandigarh
+focus       → shipping small, genuinely useful things
+toolkit     → C · Java · Python · JavaScript / TypeScript
+habit       → "just one more feature" at 11 PM
+current     → deep in Next.js, building a portfolio worth showing
 ```
 
 ---
 
-## Things I've actually built
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🚨 NOcrisis**
-Real-time crisis coordination for hotels — admin, staff, and guests stay in sync during emergencies via live Firebase updates, with Gemini generating role-specific response instructions on the fly. Guests join through a per-room QR code, no app install needed.
+A real-time crisis coordination system for hotels. Admins, staff, and guests stay synced during emergencies through live Firebase updates, with Gemini generating role-specific response instructions on the fly. Guests join through a per-room QR code — no app install required.
 
 `Next.js 15` `Firebase RTDB` `Gemini API` `Tailwind`
 
@@ -48,7 +48,7 @@ Real-time crisis coordination for hotels — admin, staff, and guests stay in sy
 <td width="50%" valign="top">
 
 **🏥 Lumiere**
-A hospital emergency-response system built at a college hackathon, focused on getting critical information to the right people fast when every second counts.
+A hospital emergency-response system built at a college hackathon, designed to route critical information to the right people when every second counts.
 
 `Hackathon Build`
 
@@ -58,7 +58,7 @@ A hospital emergency-response system built at a college hackathon, focused on ge
 <td width="50%" valign="top">
 
 **🥗 NutriDish**
-A nutrition analyser that breaks down meals and surfaces the numbers that actually matter, backed by a Java service layer.
+A nutrition analyser that breaks a meal down into the numbers that actually matter, backed by a Java service layer.
 
 `Java`
 
@@ -68,7 +68,7 @@ A nutrition analyser that breaks down meals and surfaces the numbers that actual
 <td width="50%" valign="top">
 
 **🎓 Campus Connect**
-A networking platform for students to find and connect with people on campus who share their interests, courses, or projects.
+A networking platform that helps students find and connect with peers who share their courses, interests, or projects.
 
 `HTML/JS`
 
@@ -80,7 +80,7 @@ A networking platform for students to find and connect with people on campus who
 <td width="50%" valign="top">
 
 **🧠 Emergency Response System**
-Built for the Hack2Skill Google Hackathon — an emergency coordination tool using Firebase for real-time sync, backed by Java.
+Built for the Hack2Skill Google Hackathon — an emergency coordination tool using Firebase for real-time sync, with a Java backend.
 
 `Java` `Firebase` `Hack2Skill`
 
@@ -88,7 +88,7 @@ Built for the Hack2Skill Google Hackathon — an emergency coordination tool usi
 <td width="50%" valign="top">
 
 **⚡ laserr & other experiments**
-A handful of smaller prototypes and quick builds from the process of learning by shipping, not just studying.
+A handful of smaller prototypes from the process of learning by building rather than only studying.
 
 [Code](https://github.com/adityaa6060/laserr)
 
@@ -96,30 +96,30 @@ A handful of smaller prototypes and quick builds from the process of learning by
 </tr>
 </table>
 
-<div align="center"><sub>more on <a href="https://github.com/adityaa6060?tab=repositories">GitHub</a> · full writeups on the <a href="https://aditya-tanwar.vercel.app/">portfolio</a></sub></div>
+<div align="center"><sub>More on <a href="https://github.com/adityaa6060?tab=repositories">GitHub</a> · full write-ups on the <a href="https://aditya-tanwar.vercel.app/">portfolio</a></sub></div>
 
 ---
 
-## 🧰 stack
+## Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css,nextjs,tailwind,firebase,git,github,vscode,figma" />
 </p>
 
-## Current status
+## Currently focused on
 
-- Data Structures & Algorithms — in C, the hard way
-- Next.js 15 + TypeScript for real, production-shaped apps
-- Turning a Figma mockup into a UI that doesn't look like a Figma mockup
-- Reading other people's messy code and not flinching
+- Data Structures & Algorithms, in C
+- Next.js 15 and TypeScript for production-shaped applications
+- Turning a Figma mockup into a UI that doesn't look like one
+- Reading unfamiliar codebases without flinching
 
 ---
 
-## the numbers
+## GitHub activity
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityaa6060&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaa6060&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=adityaa6060&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityaa6060&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
@@ -127,20 +127,22 @@ A handful of smaller prototypes and quick builds from the process of learning by
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityaa6060&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=adityaa6060&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" />
 </div>
 
-> If any of these cards ever show up blank, it's almost always the stats service being slow to wake up (they run on free Vercel instances) — reloading the page usually fixes it. The URLs above are the currently-correct, working format.
+<div align="center"><sub>Stats run on GitHub Stats Extended, the actively maintained successor to the original (now-retired) github-readme-stats project — this should keep the cards from silently going blank.</sub></div>
 
 ## LeetCode
 
 <div align="center">
+
 <a href="https://leetcode.com/u/adityaa6/">
-<img src="https://leetcard.jacoblin.cool/jbJhfkj3Rg?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/adityaa6?theme=nord&font=JetBrains%20Mono&ext=heatmap" />
 </a>
+
 </div>
 
-## Commits
+## Contribution graph
 
 <div align="center">
 
@@ -151,22 +153,22 @@ A handful of smaller prototypes and quick builds from the process of learning by
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adityaa6060/adityaa6060/output/pacman-contribution-graph.svg">
 </picture>
 
-<sub>⚠️ this animation goes live only after you add the workflow file below to your <code>adityaa6060/adityaa6060</code> repo and let it run once</sub>
+<sub>Renders once the Pac-Man workflow has been added to the <code>adityaa6060/adityaa6060</code> repository and run at least once.</sub>
 
 </div>
 
 ---
 
-## Contact me
+## Get in touch
 
-Building something interesting, hiring for an internship, or just want to argue about whether Next.js App Router was a good idea? I'm around.
+Building something interesting, hiring for an internship, or want to debate whether the Next.js App Router was a good idea? I'm easy to reach.
 
 <div align="center">
 
 <a href="mailto:adityatanwar13827@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/aditya-tanwar-34980b376"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://aditya-tanwar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2A5298?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://leetcode.com/u/jbJhfkj3Rg/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://leetcode.com/u/adityaa6/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 <br/><br/>
 
