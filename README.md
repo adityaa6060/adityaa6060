@@ -26,7 +26,7 @@ role        → CS (Data Science) undergraduate, NMIMS Chandigarh
 focus       → shipping small, genuinely useful things
 toolkit     → C · Java · Python · JavaScript / TypeScript
 habit       → "just one more feature" at 11 PM
-current     → deep in Next.js, building a portfolio worth showing
+current     → ARES, building a portfolio worth showing
 ```
 
 ---
