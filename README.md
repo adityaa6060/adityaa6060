@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:1E3C72,100:2A5298&height=230&section=header&text=Aditya%20Tanwar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Builder%20%C2%B7%20Tinkerer%20%C2%B7%20Perpetually%20Mid-Project&descAlignY=58&descSize=18" width="100%" />
+<img src="https://raw.githubusercontent.com/adityaa6060/adityaa6060/main/assets/banner-top.svg" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=B.Tech+CS+(Data+Science)+%40+NMIMS+Chandigarh;Turning+rough+ideas+into+shipped+code;Hackathon+builder+%E2%80%94+Hack2Skill+%26+college+circuits;Design-minded%2C+code-first;Currently+debugging+Next.js+and+winning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=B.Tech+CS+(Data+Science)+%40+NMIMS+Chandigarh;Turning+rough+ideas+into+shipped+code;Hackathon+builder+%E2%80%94+Hack2Skill+%26+college+circuits;Design-minded%2C+code-first;Currently+debugging+Next.js+and+winning" alt="Typing SVG" />
 
 <br/>
 
@@ -123,14 +123,10 @@ A handful of smaller prototypes from the process of learning by building rather 
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=adityaa6060&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/adityaa6060/adityaa6060/main/github-metrics.svg" width="100%" />
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=adityaa6060&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1" />
-</div>
-
-<div align="center"><sub>Stats run on GitHub Stats Extended, the actively maintained successor to the original (now-retired) github-readme-stats project — this should keep the cards from silently going blank.</sub></div>
+<div align="center"><sub>The top row runs on GitHub Stats Extended, the maintained successor to the retired github-readme-stats project. The calendar and achievements below are generated directly by a GitHub Action in this repository and committed as a file — no external server to go down.</sub></div>
 
 ## LeetCode
 
@@ -180,4 +176,4 @@ Building something interesting, hiring for an internship, or want to debate whet
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A5298,50:1E3C72,100:0F2027&height=120&section=footer" width="100%" />
+<img src="https://raw.githubusercontent.com/adityaa6060/adityaa6060/main/assets/banner-bottom.svg" width="100%" />
