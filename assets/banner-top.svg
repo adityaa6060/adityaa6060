@@ -1,1 +1,99 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700;900&amp;family=JetBrains+Mono:wght@500&amp;display=swap');
+    .name { font-family: 'Space Grotesk', sans-serif; font-weight: 900; }
+    .tag  { font-family: 'JetBrains Mono', monospace; font-weight: 500; }
+  </style>
 
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#050110"/>
+      <stop offset="45%"  stop-color="#170a2e"/>
+      <stop offset="100%" stop-color="#2a0f45"/>
+    </linearGradient>
+
+    <linearGradient id="nameGrad" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%"   stop-color="#FF2E88"/>
+      <stop offset="30%"  stop-color="#7B2FF7"/>
+      <stop offset="60%"  stop-color="#00E5FF"/>
+      <stop offset="100%" stop-color="#FF2E88"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-400 0;400 0;-400 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="9" result="blur">
+        <animate attributeName="stdDeviation" values="6;12;6" dur="3.5s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+  <!-- drifting grid -->
+  <g stroke="#7B2FF7" stroke-width="1" opacity="0.08">
+    <animateTransform attributeName="transform" type="translate" values="0 0;-60 0;0 0" dur="14s" repeatCount="indefinite"/>
+    <line x1="0" y1="0" x2="0" y2="300"/><line x1="60" y1="0" x2="60" y2="300"/>
+    <line x1="120" y1="0" x2="120" y2="300"/><line x1="180" y1="0" x2="180" y2="300"/>
+    <line x1="240" y1="0" x2="240" y2="300"/><line x1="300" y1="0" x2="300" y2="300"/>
+    <line x1="360" y1="0" x2="360" y2="300"/><line x1="420" y1="0" x2="420" y2="300"/>
+    <line x1="480" y1="0" x2="480" y2="300"/><line x1="540" y1="0" x2="540" y2="300"/>
+    <line x1="600" y1="0" x2="600" y2="300"/><line x1="660" y1="0" x2="660" y2="300"/>
+    <line x1="720" y1="0" x2="720" y2="300"/><line x1="780" y1="0" x2="780" y2="300"/>
+    <line x1="840" y1="0" x2="840" y2="300"/><line x1="900" y1="0" x2="900" y2="300"/>
+    <line x1="960" y1="0" x2="960" y2="300"/><line x1="1020" y1="0" x2="1020" y2="300"/>
+    <line x1="1080" y1="0" x2="1080" y2="300"/><line x1="1140" y1="0" x2="1140" y2="300"/>
+  </g>
+
+  <!-- floating particles -->
+  <circle cx="120" cy="240" r="3" fill="#00E5FF" opacity="0.7">
+    <animate attributeName="cy" values="240;60;240" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="260" cy="260" r="2.4" fill="#FF2E88" opacity="0.6">
+    <animate attributeName="cy" values="260;40;260" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="980" cy="250" r="3.2" fill="#7B2FF7" opacity="0.7">
+    <animate attributeName="cy" values="250;50;250" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="230" r="2.6" fill="#00E5FF" opacity="0.6">
+    <animate attributeName="cy" values="230;30;230" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="80" r="2.2" fill="#FF2E88" opacity="0.5">
+    <animate attributeName="cy" values="80;260;80" dur="12s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="12s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1140" cy="90" r="2.8" fill="#7B2FF7" opacity="0.5">
+    <animate attributeName="cy" values="90;270;90" dur="13s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="13s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- HUD corner brackets -->
+  <g stroke="#00E5FF" stroke-width="3" fill="none" opacity="0.85">
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
+    <path d="M24,24 L24,60 M24,24 L60,24"/>
+    <path d="M1176,24 L1176,60 M1176,24 L1140,24"/>
+    <path d="M24,276 L24,240 M24,276 L60,276"/>
+    <path d="M1176,276 L1176,240 M1176,276 L1140,276"/>
+  </g>
+
+  <!-- name -->
+  <text x="600" y="160" text-anchor="middle" class="name" font-size="76" letter-spacing="4"
+        fill="url(#nameGrad)" filter="url(#glow)">ADITYA TANWAR</text>
+
+  <!-- tagline -->
+  <text x="600" y="208" text-anchor="middle" class="tag" font-size="17" letter-spacing="6"
+        fill="#9BE8FF" opacity="0.85">COMPUTER SCIENCE  ·  DATA SCIENCE  ·  BUILDER</text>
+
+  <line x1="500" y1="228" x2="700" y2="228" stroke="#00E5FF" stroke-width="1" opacity="0.5">
+    <animate attributeName="x1" values="600;500;600" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="600;700;600" dur="5s" repeatCount="indefinite"/>
+  </line>
+</svg>

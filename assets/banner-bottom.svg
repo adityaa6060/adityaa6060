@@ -1,0 +1,41 @@
+<svg width="1200" height="140" viewBox="0 0 1200 140" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500&amp;display=swap');
+    .tag { font-family: 'JetBrains Mono', monospace; font-weight: 500; }
+  </style>
+
+  <defs>
+    <linearGradient id="bgGradF" x1="0" y1="0" x2="1200" y2="140" gradientUnits="userSpaceOnUse">
+      <stop offset="0%"   stop-color="#2a0f45"/>
+      <stop offset="55%"  stop-color="#170a2e"/>
+      <stop offset="100%" stop-color="#050110"/>
+    </linearGradient>
+
+    <linearGradient id="sweepGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#00E5FF" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#00E5FF" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="140" fill="url(#bgGradF)"/>
+
+  <line x1="0" y1="46" x2="1200" y2="46" stroke="#7B2FF7" stroke-width="1" opacity="0.25"/>
+
+  <rect x="-300" y="42" width="300" height="8" fill="url(#sweepGrad)">
+    <animate attributeName="x" values="-300;1200" dur="4.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <g stroke="#FF2E88" stroke-width="3" fill="none" opacity="0.8">
+    <animate attributeName="opacity" values="0.5;0.9;0.5" dur="4s" repeatCount="indefinite"/>
+    <path d="M24,20 L24,44 M24,20 L48,20"/>
+    <path d="M1176,20 L1176,44 M1176,20 L1152,20"/>
+  </g>
+
+  <text x="600" y="95" text-anchor="middle" class="tag" font-size="16" letter-spacing="4" fill="#9BE8FF" opacity="0.9">
+    BUILT WITH CODE, COFFEE, AND ONE TOO MANY TABS OPEN
+  </text>
+  <text x="600" y="120" text-anchor="middle" class="tag" font-size="12" letter-spacing="3" fill="#7B2FF7" opacity="0.75">
+    thanks for stopping by
+  </text>
+</svg>
