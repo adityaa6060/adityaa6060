@@ -31,3 +31,25 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # Self-hosted replacement for the streak-stats.demolab.com and
+  # github-profile-trophy widgets, both of which run on free, unreliable
+  # third-party servers. This job renders the equivalents directly with
+  # GitHub Actions and commits the SVG straight into this repo (main
+  # branch), so nothing external has to be "up" for it to show.
+  metrics:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: github-metrics.svg
+          template: classic
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
