@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/adityaa6060/adityaa6060/main/assets/banner-top.svg" width="100%" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Alex+Brush&weight=500&size=68&duration=4000&pause=1200&color=E31C3D&center=true&vCenter=true&repeat=false&width=700&lines=Aditya+Tanwar" alt="Name" />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=B.Tech+CS+(Data+Science)+%40+NMIMS+Chandigarh;Turning+rough+ideas+into+shipped+code;Hackathon+builder+%E2%80%94+Hack2Skill+%26+college+circuits;Design-minded%2C+code-first;Currently+debugging+Next.js+and+winning" alt="Typing SVG" />
 
 <br/>
