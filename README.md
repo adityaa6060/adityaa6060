@@ -42,7 +42,7 @@ An AI-driven financial literacy platform — a money-personality quiz maps your 
 
 `Next.js` `AI Mentor` `Behavioral Finance` `Market Simulations`
 
-[Live](https://getfinwise.vercel.app/)
+[Live](https://getfinwise.vercel.app/) · [Code](https://github.com/parteek1907/Finwise-AI)
 
 </td>
 <td width="50%" valign="top">
@@ -96,7 +96,7 @@ A borderless payments platform that intelligently routes transfers across tradit
 
 `Fintech` `Smart Routing` `Payment Protection`
 
-[Live](https://zir0.vercel.app/)
+[Live](https://zir0.vercel.app/) · [Code](https://github.com/parteek1907/Ziro)
 
 </td>
 </tr>
