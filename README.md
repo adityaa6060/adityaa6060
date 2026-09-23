@@ -37,7 +37,17 @@ current     → ARES, building a portfolio worth showing
 <tr>
 <td width="50%" valign="top">
 
-**🚨 NOcrisis**
+**💰 [FinWise AI](https://getfinwise.vercel.app/)**
+An AI-driven financial literacy platform — a money-personality quiz maps your risk profile, an AI mentor adapts to it, and risk-free story-based simulations let you live through real market crashes and bull runs. Ships with an AI scam detector for spotting fraudulent offers.
+
+`Next.js` `AI Mentor` `Behavioral Finance` `Market Simulations`
+
+[Live](https://getfinwise.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+**🚨 [NOcrisis](https://no-crisis.vercel.app/)**
 A real-time crisis coordination system for hotels. Admins, staff, and guests stay synced during emergencies through live Firebase updates, with Gemini generating role-specific response instructions on the fly. Guests join through a per-room QR code — no app install required.
 
 `Next.js 15` `Firebase RTDB` `Gemini API` `Tailwind`
@@ -45,19 +55,21 @@ A real-time crisis coordination system for hotels. Admins, staff, and guests sta
 [Live](https://no-crisis.vercel.app) · [Code](https://github.com/adityaa6060/NOcrisis)
 
 </td>
-<td width="50%" valign="top">
-
-**🏥 Lumiere**
-A hospital emergency-response system built at a college hackathon, designed to route critical information to the right people when every second counts.
-
-`Hackathon Build`
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🥗 NutriDish**
+**🎓 [Campus Connect](https://campus-connect-true.vercel.app/)**
+A networking platform that helps students find and connect with peers who share their courses, interests, or projects.
+
+`HTML/JS`
+
+[Live](https://campus-connect-true.vercel.app/) · [Code](https://github.com/adityaa6060/CampusConnect)
+
+</td>
+<td width="50%" valign="top">
+
+**🥗 [NutriDish](https://github.com/adityaa6060/Nutridish)**
 A nutrition analyser that breaks a meal down into the numbers that actually matter, backed by a Java service layer.
 
 `Java`
@@ -65,32 +77,38 @@ A nutrition analyser that breaks a meal down into the numbers that actually matt
 [Code](https://github.com/adityaa6060/Nutridish)
 
 </td>
-<td width="50%" valign="top">
-
-**🎓 Campus Connect**
-A networking platform that helps students find and connect with peers who share their courses, interests, or projects.
-
-`HTML/JS`
-
-[Code](https://github.com/adityaa6060/CampusConnect)
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Emergency Response System**
-Built for the Hack2Skill Google Hackathon — an emergency coordination tool using Firebase for real-time sync, with a Java backend.
+**🏥 [Lumiere](https://uselumiere.vercel.app/)**
+A hospital emergency-response system built at a college hackathon, designed to route critical information to the right people when every second counts.
 
-`Java` `Firebase` `Hack2Skill`
+`Hackathon Build`
+
+[Live](https://uselumiere.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-**⚡ laserr & other experiments**
-A handful of smaller prototypes from the process of learning by building rather than only studying.
+**🌍 [Zir0](https://zir0.vercel.app/)**
+A borderless payments platform that intelligently routes transfers across traditional and decentralized rails. Detects scams and address-poisoning before they become costly, backs it up with human consultant support, and keeps working through an offline payment engine.
 
-[Code](https://github.com/adityaa6060/laserr)
+`Fintech` `Smart Routing` `Payment Protection`
+
+[Live](https://zir0.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**🧠 [Ares](https://github.com/adityaa6060/Ares)**
+A local-first, privacy-focused AI memory assistant. It watches your PDFs, notes, and Chrome history, runs local embeddings and screen OCR, and consolidates everything into daily summaries via a local LLM — with dual-track retrieval (SQL for temporal queries, vector search for semantic ones) so it can recall almost anything on your machine, not just files you point it at.
+
+`Tauri` `React` `Rust` `SQLite`
+
+[Code](https://github.com/adityaa6060/Ares)
 
 </td>
 </tr>
@@ -100,11 +118,32 @@ A handful of smaller prototypes from the process of learning by building rather 
 
 ---
 
+## Achievements
+
+<table>
+<tr><td align="center">🥇</td><td><b>1st Place</b> — Plaksha Prayas Tech Hackathon 2026 <sub>(Future Finance Track)</sub></td></tr>
+<tr><td align="center">🏆</td><td><b>Winner</b> — ACM-SIH Ideathon</td></tr>
+<tr><td align="center">🥇</td><td><b>1st Place</b> — Byte Battle · Code2Career Club</td></tr>
+<tr><td align="center">🎯</td><td><b>Top 6</b> — StoxraHack 2026</td></tr>
+<tr><td align="center">🌐</td><td><b>Top 67 Nationwide</b> — Confluence 2.0 International Innovation Hackathon</td></tr>
+<tr><td align="center">⭐</td><td><b>ACM Core Member</b> — NMIMS Chandigarh</td></tr>
+</table>
+
+---
+
 ## Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,java,python,js,ts,html,css,nextjs,tailwind,firebase,git,github,vscode,figma" />
-</p>
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=c,java,python,js,ts" /></p>
+
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=nextjs,tailwind,html,css" /></p>
+
+**Backend & Data**
+<p><img src="https://skillicons.dev/icons?i=firebase" /></p>
+
+**Tools & Design**
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,figma" /></p>
 
 ## Currently focused on
 
