@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/adityaa6060/adityaa6060/main/assets/banner-top.svg" width="100%" />
-
+<br/>
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=68&duration=4000&pause=1200&color=E31C3D&center=true&vCenter=true&repeat=false&width=700&lines=Aditya+Tanwar" alt="Name" />
 
