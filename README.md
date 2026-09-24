@@ -2,13 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/adityaa6060/adityaa6060/main/assets/banner-top.svg" width="100%" />
 <br/>
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=68&height=120&duration=4000&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=false&width=700&lines=Aditya+Tanwar" alt="Name" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=00E5FF&center=true&vCenter=true&width=800&lines=B.Tech+CS+(Data+Science)+%40+NMIMS+Chandigarh;Turning+rough+ideas+into+shipped+code;Hackathon+builder+%E2%80%94+Hack2Skill+%26+college+circuits;Design-minded%2C+code-first;Currently+debugging+Next.js+and+winning" alt="Typing SVG" />
-
-<br/>
 
 <a href="https://aditya-tanwar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2A5298?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/adityaa6060"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
