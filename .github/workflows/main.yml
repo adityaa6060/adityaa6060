@@ -51,5 +51,5 @@ jobs:
           config_timezone: Asia/Kolkata
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
+          plugin_achievements: no
+
