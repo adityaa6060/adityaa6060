@@ -31,12 +31,7 @@
       </feMerge>
     </filter>
 
-    <clipPath id="typeClip">
-      <rect x="180" y="55" width="0" height="250">
-        <animate attributeName="width" values="0;850;850;0" keyTimes="0;0.42;0.82;1"
-          dur="6s" repeatCount="indefinite"/>
-      </rect>
-    </clipPath>
+
   </defs>
 
   <rect width="1200" height="300" fill="url(#bgGrad)"/>
@@ -91,17 +86,9 @@
     <path d="M1176,276 L1176,240 M1176,276 L1140,276"/>
   </g>
 
-  <!-- typed text (types in, holds, erases, loops) -->
-  <g clip-path="url(#typeClip)">
-    <text x="190" y="168" text-anchor="start" class="name" font-size="98"
-          textLength="820" lengthAdjust="spacing"
+  <!-- static centered text -->
+  <g>
+    <text x="600" y="168" text-anchor="middle" class="name" font-size="98"
           fill="url(#nameGrad)" filter="url(#glow)">GETTING BETTER</text>
   </g>
-
-  <!-- blinking cursor that tracks the typing edge -->
-  <rect y="92" width="6" height="88" fill="#00E5FF">
-    <animate attributeName="x" values="190;1010;1010;190" keyTimes="0;0.42;0.82;1"
-      dur="6s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="1;0;1;0;1;0;1;0" dur="1s" repeatCount="indefinite"/>
-  </rect>
 </svg>
