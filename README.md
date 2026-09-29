@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/adityaa6060/adityaa6060/main/assets/banner-top.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/adityaa6060/adityaa6060/main/assets/banner-top.gif" width="100%" />
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=68&height=120&duration=4000&pause=1200&color=7F00FF&center=true&vCenter=true&repeat=false&width=700&lines=Aditya+Tanwar" alt="Name" />
